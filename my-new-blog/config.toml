@@ -159,6 +159,6 @@ disqusShortname = ""
 
 # sitemap 생성
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "daily"
   filename = "sitemap.xml"
   priority = 0.5
