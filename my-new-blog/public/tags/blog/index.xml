@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Dev Marine, 순간을 기록하자.</title>
+    <link>https://marineyang.github.io/tags/blog/</link>
+    <description>Recent content in Blog on Dev Marine, 순간을 기록하자.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Oct 2020 14:31:07 +0900</lastBuildDate><atom:link href="https://marineyang.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 빌베리 테마 적용하기</title>
+      <link>https://marineyang.github.io/code/installing_bilberry_theme_excute/</link>
+      <pubDate>Tue, 06 Oct 2020 14:31:07 +0900</pubDate>
+      
+      <guid>https://marineyang.github.io/code/installing_bilberry_theme_excute/</guid>
+      <description>&lt;p&gt;Hugo를 이용한 빌베리 테마 설치 방법 입니다.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

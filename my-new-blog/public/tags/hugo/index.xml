@@ -5,15 +5,14 @@
     <link>https://marineyang.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on Dev Marine, 순간을 기록하자.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2017 09:31:27 +0100</lastBuildDate><atom:link href="https://marineyang.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 14:31:07 +0900</lastBuildDate><atom:link href="https://marineyang.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Installing Bilberry Theme</title>
-      <link>https://marineyang.github.io/code/installing-bilberry-theme/</link>
-      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
+      <title>Hugo 빌베리 테마 적용하기</title>
+      <link>https://marineyang.github.io/code/installing_bilberry_theme_excute/</link>
+      <pubDate>Tue, 06 Oct 2020 14:31:07 +0900</pubDate>
       
-      <guid>https://marineyang.github.io/code/installing-bilberry-theme/</guid>
-      <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
-on the official &lt;!-- raw HTML omitted --&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://marineyang.github.io/code/installing_bilberry_theme_excute/</guid>
+      <description>&lt;p&gt;Hugo를 이용한 빌베리 테마 설치 방법 입니다.&lt;/p&gt;</description>
     </item>
     
   </channel>
