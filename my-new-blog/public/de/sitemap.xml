@@ -5,6 +5,8 @@
   <url>
     <loc>https://marineyang.github.io/de/page/github/</loc>
     <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +22,8 @@
   <url>
     <loc>https://marineyang.github.io/de/</loc>
     <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,6 +39,8 @@
   <url>
     <loc>https://marineyang.github.io/de/page/</loc>
     <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,6 +55,8 @@
   
   <url>
     <loc>https://marineyang.github.io/de/author/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,6 +71,8 @@
   
   <url>
     <loc>https://marineyang.github.io/de/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -77,6 +87,8 @@
   
   <url>
     <loc>https://marineyang.github.io/de/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

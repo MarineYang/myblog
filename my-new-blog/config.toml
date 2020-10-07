@@ -155,3 +155,10 @@ disqusShortname = ""
     endLevel = 5
     ordered = false
     startLevel = 2
+
+
+# sitemap 생성
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
