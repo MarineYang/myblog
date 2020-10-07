@@ -4,7 +4,7 @@ date: 2017-11-01T13:18:45+01:00
 excludeFromTopNav: false
 showDate: false
 ---
-백엔드, 게임서버 아키텍쳐에 대한 관심이 많으며 주력 언어는 Golang이며, 생각나는 무엇이든 발해보며 즐기는 편입니다.
+백엔드, 게임서버 아키텍쳐에 대한 관심이 많으며 주력 언어는 Golang이며, 생각나는 무엇이든 개발해보며 즐기는 편입니다.
 
 ---
 Experience
@@ -22,7 +22,7 @@ Game Server Programer / Staff
 
 ---- 한빛소프트.inc
 ----
-Game Development Division / G2 Tean / Server Programer
+Game Development Division / G2 Team / Server Programer
 
 (`AWS GameLift`, `Docker`, `EC2`, `ECS`, `RDS`, `NodeJS`, `C++`, `MYSQL`, `CentOS`, `Linux Server`, `Visual Studio Code`, `Visual Studio 2017`)
 
