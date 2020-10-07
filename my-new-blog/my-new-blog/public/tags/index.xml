@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dev Marine, 순간을 기록하자.</title>
+    <link>https://hyungbaeyang.github.io/tags/</link>
+    <description>Recent content in Tags on Dev Marine, 순간을 기록하자.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Oct 2020 14:31:07 +0900</lastBuildDate><atom:link href="https://hyungbaeyang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bilberry Theme</title>
+      <link>https://hyungbaeyang.github.io/tags/bilberry-theme/</link>
+      <pubDate>Tue, 06 Oct 2020 14:31:07 +0900</pubDate>
+      
+      <guid>https://hyungbaeyang.github.io/tags/bilberry-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://hyungbaeyang.github.io/tags/blog/</link>
+      <pubDate>Tue, 06 Oct 2020 14:31:07 +0900</pubDate>
+      
+      <guid>https://hyungbaeyang.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://hyungbaeyang.github.io/tags/hugo/</link>
+      <pubDate>Tue, 06 Oct 2020 14:31:07 +0900</pubDate>
+      
+      <guid>https://hyungbaeyang.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>고오오급 블로그</title>
+      <link>https://hyungbaeyang.github.io/tags/%EA%B3%A0%EC%98%A4%EC%98%A4%EA%B8%89-%EB%B8%94%EB%A1%9C%EA%B7%B8/</link>
+      <pubDate>Tue, 06 Oct 2020 14:31:07 +0900</pubDate>
+      
+      <guid>https://hyungbaeyang.github.io/tags/%EA%B3%A0%EC%98%A4%EC%98%A4%EA%B8%89-%EB%B8%94%EB%A1%9C%EA%B7%B8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hyungbaeyang.github.io/de/page/github/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyungbaeyang.github.io/page/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://hyungbaeyang.github.io/de/page/github/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hyungbaeyang.github.io/de/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyungbaeyang.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://hyungbaeyang.github.io/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hyungbaeyang.github.io/de/page/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyungbaeyang.github.io/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://hyungbaeyang.github.io/de/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hyungbaeyang.github.io/de/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyungbaeyang.github.io/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://hyungbaeyang.github.io/de/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hyungbaeyang.github.io/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyungbaeyang.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://hyungbaeyang.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hyungbaeyang.github.io/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyungbaeyang.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://hyungbaeyang.github.io/de/tags/"
+                />
+  </url>
+  
+</urlset>
