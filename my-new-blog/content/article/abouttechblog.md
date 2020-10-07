@@ -3,7 +3,7 @@ title: "기술블로그? 나도 ! "
 date: 2020-10-07T17:09:10+09:00
 draft: true
 
-categories: [Discuss]
+categories: ['Discuss']
 tags: ['Discuss', '그냥저냥', '기술블로그', 'Post', 'Hugo']
 toc: false
 author: "Dev_Marine"
