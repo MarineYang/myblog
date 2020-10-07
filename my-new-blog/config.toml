@@ -56,7 +56,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "어제와 똑같이 살면서 다른 미래를 기대하는 것은 정신병 초기 증세이다. - 아인슈타인"
+    subtitle = "어제와 똑같이 살면서 다른 미래를 기대하는 것은 정신병 초기 증세이다."
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "didgudqo13@gmail.com"
